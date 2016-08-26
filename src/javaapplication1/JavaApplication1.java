@@ -18,6 +18,8 @@ public class JavaApplication1 {
         System.out.println("Hola Jois");
         System.out.println("Practicndo");
         System.out.println("Siguendo en la practica");
+        System.out.println("Fin de Semana");
+        System.out.println("realizado practicas");
     }
     
 }
