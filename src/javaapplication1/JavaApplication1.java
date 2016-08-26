@@ -20,6 +20,8 @@ public class JavaApplication1 {
         System.out.println("Siguendo en la practica");
         System.out.println("Fin de Semana");
         System.out.println("realizado practicas");
+        System.out.println("ingenreria de software II");
+        System.out.println("Johanna Baque");
     }
     
 }
